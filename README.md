@@ -150,5 +150,5 @@ yarn dev
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by 你的名字</sub>
+  <sub>Built with ❤️ by 季禾</sub>
 </div> 
