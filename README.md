@@ -44,8 +44,8 @@
 ### 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/项目名.git
-cd 项目名
+git clone https://github.com/KouirWu/vue3-flask.git
+cd vue3-flask
 ```
 
 ### 2️⃣ 安装前端依赖
